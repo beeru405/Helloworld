@@ -1,5 +1,5 @@
 package com.aks;
-public class Test1 {
+public class AppTest {
     public static void main(String[] ards) {
       String results = Test.m1();
       System.out.println(results);
